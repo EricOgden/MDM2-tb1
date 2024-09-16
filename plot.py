@@ -18,13 +18,12 @@ print("My Name is Eric")
 
 
 
-<<<<<<< HEAD
+
 
 
 print("hello")
 
 
 
-=======
->>>>>>> dacd73db435bf28ea1bedbcd7f4df42277160193
+
 
