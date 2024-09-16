@@ -18,10 +18,4 @@ print("My Name is Eric")
 
 
 
-=======
-
-print("hello")
-
-
->>>>>>> 112fafb0d450a0398106c8e5d58d1c7e0c210d51
 
