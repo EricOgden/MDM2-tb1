@@ -10,9 +10,5 @@ import matplotlib.pyplot as plt
 plt.plot([1,0,4],[1,0,-1])
 plt.show()
 
-import matplotlib.pyplot as plt
-
-plt.plot([1,0,4],[1,0,-1])
-plt.show()
 
 
